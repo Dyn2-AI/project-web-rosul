@@ -65,6 +65,6 @@ Project yang dikembangkan untuk meningkatkan pengetahuan mengenai nabi muhammad 
    php artisan serve
 
 ### catatan penting
-email admin : admin@example.com password: password123
-email user biasa : user@gmail.com password: user1234
+- email admin : admin@example.com password: password123
+= email user biasa : user@gmail.com password: user1234
 
